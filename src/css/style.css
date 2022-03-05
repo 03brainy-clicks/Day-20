@@ -1,0 +1,63 @@
+#image {
+  background-image: url("../images/meeting.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  /* background-color: #09f200;
+  background-blend-mode: color-burn; */
+}
+
+#card {
+  background-color: #0a1540;
+  color: white;
+  margin: 0px;
+  padding: 0px;
+}
+
+#card input {
+  width: 100%;
+  border-radius: 0px;
+  border: none;
+  margin: 5px 0px 0px;
+  padding: 0px 7px;
+}
+#card textarea {
+  width: 100%;
+  border-radius: 0px;
+  border: none;
+  margin: 5px 0px 0px;
+  padding: 0px 7px;
+}
+
+.main {
+  height: 100vh;
+  background-color: black;
+}
+body {
+  background-color: black;
+}
+
+.red {
+  border: red solid 1px;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#submit {
+  background-color: #09f200;
+  color: white;
+  border: #09f200 solid 2px;
+  border-radius: 0px;
+}
+#submit:hover {
+  background-color: white;
+  border: #09f200 solid 2px;
+  color: #09f200;
+}
+
+h2 span {
+  color: #09f200;
+}
